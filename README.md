@@ -1,6 +1,6 @@
 # Product Store API
 
-A complete e-commerce API built with Hono, Drizzle ORM, and PostgreSQL (Supabase).
+A complete e-commerce API For my learning flutter apps built with Hono, Drizzle ORM, and PostgreSQL (Supabase).
 
 ## Features
 
